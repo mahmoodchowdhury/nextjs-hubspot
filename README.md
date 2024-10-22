@@ -1,4 +1,4 @@
-# # HubSpot Form Integration Component
+## HubSpot Form Integration Component
 
 This component simplifies the integration of HubSpot forms into your Next.js application, allowing you to collect user data seamlessly. Feel free to use it and tweak it to your needs.
 
